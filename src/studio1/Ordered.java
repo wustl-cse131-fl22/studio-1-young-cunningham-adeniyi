@@ -18,6 +18,8 @@ public class Ordered {
 		boolean isOrdered = (x > y && y > z) || (x<y && y<z);	
 		System.out.println(isOrdered);
 
+		
+		
 
 	}
 
